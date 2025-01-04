@@ -9,7 +9,7 @@ OSHIStamp (おしスタンプ) は、YouTube 動画で推しのタイムスタ�
 
 ## 画面イメージ
 
-![alt text](./images/image.png)
+![alt text](./images/image-01.png)
 
 ## 機能
 
@@ -59,3 +59,7 @@ OSHIStamp (おしスタンプ) は、YouTube 動画で推しのタイムスタ�
 ## 問い合わせ
 
 - [お問い合わせはこちらからお願いします](https://github.com/takanori-azegami-jp/OSHIStamp-docs/issues)
+
+---
+
+![alt text](./images/image-02.png)
