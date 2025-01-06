@@ -8,7 +8,8 @@ YouTube 動画のタイムスタンプ作成を支援する無料ツールです
 
 ## 画面イメージ
 
-![alt text](./images/image-01.png)
+![alt text](./images/image-screen.png)
+![alt text](./images/image-edit.GIF)
 
 ## 主な機能
 
@@ -85,4 +86,4 @@ YouTube 動画のタイムスタンプ作成を支援する無料ツールです
 
 ---
 
-![alt text](./images/image-02.png)
+![alt text](./images/image-logo.png)
