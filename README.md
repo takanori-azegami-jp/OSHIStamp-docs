@@ -82,4 +82,6 @@ YouTube 動画のタイムスタンプ作成を支援する無料ツールです
 
 ---
 
+---
+
 ![alt text](./images/image-logo.png)
