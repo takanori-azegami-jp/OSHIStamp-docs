@@ -80,7 +80,11 @@ YouTube 動画のタイムスタンプ作成を支援する無料ツールです
 
 - [お問い合わせは、こちらからお願いします](https://github.com/takanori-azegami-jp/OSHIStamp-docs/issues)
 
----
+## 参考サイト
+
+このプロジェクトの開発にあたり、以下のサイトを参考にさせていただきました。
+
+- [piny940 / kokosuko-stamp](https://github.com/piny940/kokosuko-stamp)
 
 ---
 
