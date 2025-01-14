@@ -1,5 +1,7 @@
 # Privacy policy for Chrome extensions developed
 
+[日本語](README.md) | [English](README-EN.md)
+
 ## Chrome 拡張のプライバシーポリシー
 
 本プライバシーポリシーは、Takanori Azegami（以下、「当開発者」）が開発した GoogleChrome の拡張機能(OSHIStamp)(以下、「拡張機能」とします。)の利用において、利用者の個人情報もしくはそれに準ずる情報を取り扱う際に、当開発者が遵守する方針を示したものです。

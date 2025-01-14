@@ -1,5 +1,7 @@
 # OSHIStamp: YouTube Video Timestamp Creation Support Tool
 
+[日本語](README.md) | [English](README-EN.md)
+
 A free tool to assist in creating timestamps for YouTube videos.
 
 Not only can you easily create and edit timestamps with intuitive operations, but advanced users can also perform speedy tasks using shortcut keys.
@@ -80,7 +82,13 @@ The developer is not responsible for any loss or damage resulting from the use o
 
 - [Please contact us here](https://github.com/takanori-azegami-jp/OSHIStamp-docs/issues)
 
----
+**Supported languages: Japanese, English**
+
+## References
+
+The following site was referenced during the development of this project:
+
+- [piny940 / kokosuko-stamp](https://github.com/piny940/kokosuko-stamp)
 
 ---
 
