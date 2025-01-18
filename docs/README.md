@@ -1,4 +1,4 @@
-# Privacy policy for Chrome extensions developed
+# Privacy Policy for Chrome Extensions Developed
 
 [日本語](README.md) | [English](README-EN.md)
 
