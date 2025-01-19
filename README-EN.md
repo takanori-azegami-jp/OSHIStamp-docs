@@ -10,7 +10,7 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 
 ## Screen Image
 
-![alt text](./images/image-screen.png)
+![alt text](./images/image-screen-en.png)
 ![alt text](./images/image-edit.GIF)
 
 ## Main Features
@@ -60,6 +60,7 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 ## Shortcut Keys
 
 - **CTRL + SHIFT + S**: Add timestamp
+- **CTRL + SHIFT + F**: Insert timestamp
 - **CTRL + SHIFT + →**: Move forward 1 second
 - **CTRL + SHIFT + ←**: Move back 1 second
 - **CTRL + SHIFT + ↑**: Adjust selected timestamp by +1 second (multiple selections possible)
@@ -69,6 +70,12 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 ## Update History
 
 - Version 1.0.0: Initial release.
+- Version 1.1.0: Added localization support. (de, en, en_US, es, fr, ja, pt_BR, zh_CN)
+- Version 1.2.0: Added localization support. (ru)
+- Version 1.3.0: Added vertical and horizontal resizing functionality, adjusted screen size, and added a space after timestamps.
+- Version 1.4.0: Added the shortcut key "Ctrl + Shift + F" for inserting timestamps.
+- Version 1.5.0: Added localization support. (id, it, nl, vi)
+- Version 1.6.0: Fixed horizontal scrollbar jitter.
 
 ## Privacy and Data Management
 
@@ -77,6 +84,10 @@ This tool does not collect any user data. All data is stored locally and managed
 ## Disclaimer
 
 The developer is not responsible for any loss or damage resulting from the use of this tool. Please understand this in advance.
+
+## Privacy
+
+[privacy policy](https://takanori-azegami-jp.github.io/OSHIStamp-docs/README-EN)
 
 ## Contact
 
