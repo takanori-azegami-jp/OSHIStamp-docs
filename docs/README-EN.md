@@ -1,10 +1,10 @@
-# Privacy Policy for Chrome Extensions Developed
+# Privacy Policy for Chrome Extensions and Edge Add-ons
 
 [日本語](README.md) | [English](README-EN.md)
 
-## Privacy Policy for Chrome Extensions
+## Privacy Policy for Chrome Extensions and Edge Add-ons
 
-This privacy policy outlines the policies that Takanori Azegami (hereinafter referred to as "the developer") adheres to when handling personal information or equivalent information in the use of the Google Chrome extension (OSHIStamp) (hereinafter referred to as "the extension") developed by the developer.
+This privacy policy outlines the policies that Takanori Azegami (hereinafter referred to as "the developer") adheres to when handling personal information or equivalent information in the use of the Google Chrome extension and Microsoft Edge add-on (OSHIStamp) (hereinafter referred to as "the extension") developed by the developer.
 
 ### Basic Policy
 
@@ -74,6 +74,7 @@ For inquiries regarding the extension or the handling of personal information, p
 
 Email address: t.azegami213@gmail.com
 
-## Date of Enactment
+## Date of Enactment and Updates
 
-Enacted on 2025/1/12
+- Date of Enactment: 2025/1/12-
+- Last Updated: 2025/1/21
