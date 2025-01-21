@@ -76,6 +76,7 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 - Version 1.4.0: Added the shortcut key "Ctrl + Shift + F" for inserting timestamps.
 - Version 1.5.0: Added localization support. (id, it, nl, vi)
 - Version 1.6.0: Fixed horizontal scrollbar jitter.
+- Version 1.7.0: Changed the addition, insertion, and adjustment of short format timestamps from h:m:ss to h:mm:ss format.
 
 ## Privacy and Data Management
 
