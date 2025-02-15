@@ -36,6 +36,10 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 
   You can skip in 5-second increments with buttons and in 1-second increments with shortcut keys.
 
+- **Video Screenshot**
+
+  You can download a screenshot of the video in "PNG format."
+
 - **Copy Timestamps**
 
   You can copy the created timestamps to the clipboard with one click.
@@ -77,6 +81,7 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 - Version 1.5.0: Added localization support. (id, it, nl, vi)
 - Version 1.6.0: Fixed horizontal scrollbar jitter.
 - Version 1.7.0: Changed the addition, insertion, and adjustment of short format timestamps from h:m:ss to h:mm:ss format.
+- Version 1.8.0: Added the video screenshot feature, and changed the width of the fan image size: 430px → 530px
 
 ## Privacy and Data Management
 
