@@ -41,7 +41,6 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
   You can download a screenshot of the video in "PNG format."
 
 - **Copy Timestamps**
-
   You can copy the created timestamps to the clipboard with one click.
 
 - **Check Playback Time**
@@ -55,7 +54,7 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 - **Display Favorite Images**
 
   By uploading and displaying your favorite images on the screen, you can boost your motivation for "Oshi" activities!
-  (Supported size: 430px × 70px, formats: JPG, PNG, SVG)
+  (Supported size:530px × 70px, formats: JPG, PNG, SVG)
 
 - **Minimize Feature**
 
