@@ -60,15 +60,15 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 
   You can minimize the screen to the bottom right when not needed.
 
-## Shortcut Keys
+## Shortcut Keys（CTRL + SHIFT or ALT）
 
-- **CTRL + SHIFT + S**: Add timestamp
-- **CTRL + SHIFT + F**: Insert timestamp
-- **CTRL + SHIFT + →**: Move forward 1 second
-- **CTRL + SHIFT + ←**: Move back 1 second
-- **CTRL + SHIFT + ↑**: Adjust selected timestamp by +1 second (multiple selections possible)
-- **CTRL + SHIFT + ↓**: Adjust selected timestamp by -1 second (multiple selections possible)
-- **CTRL + SHIFT + Enter**: Jump to the timestamp time of the line where the cursor is located
+- **CTRL + SHIFT/ALT + S**: Add timestamp
+- **CTRL + SHIFT/ALT + F**: Insert timestamp
+- **CTRL + SHIFT/ALT + →**: Move forward 1 second
+- **CTRL + SHIFT/ALT + ←**: Move back 1 second
+- **CTRL + SHIFT/ALT + ↑**: Adjust selected timestamp by +1 second (multiple selections possible)
+- **CTRL + SHIFT/ALT + ↓**: Adjust selected timestamp by -1 second (multiple selections possible)
+- **CTRL + SHIFT/ALT + Enter**: Jump to the timestamp time of the line where the cursor is located
 
 ## Update History
 
@@ -81,6 +81,7 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 - Version 1.6.0: Fixed horizontal scrollbar jitter.
 - Version 1.7.0: Changed the addition, insertion, and adjustment of short format timestamps from h:m:ss to h:mm:ss format.
 - Version 1.8.0: Added the video screenshot feature, and changed the width of the fan image size: 430px → 530px
+- Version 1.9.0: Updated shortcut keys (changed to SHIFT or ALT), Updated localization support (en, en_GB, en_US, es, ja, ru, zh_CN, zh_TW)
 
 ## Privacy and Data Management
 
