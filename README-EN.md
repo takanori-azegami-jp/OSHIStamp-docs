@@ -82,6 +82,7 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 - Version 1.7.0: Changed the addition, insertion, and adjustment of short format timestamps from h:m:ss to h:mm:ss format.
 - Version 1.8.0: Added the video screenshot feature, and changed the width of the fan image size: 430px → 530px
 - Version 1.9.0: Updated shortcut keys (changed to SHIFT or ALT), Updated localization support (en, en_GB, en_US, es, ja, ru, zh_CN, zh_TW)
+- Version 1.10.0: Hide the minimize icon in full-screen mode, change the width of the Oshi image size from 530px to 490px.
 
 ## Privacy and Data Management
 
