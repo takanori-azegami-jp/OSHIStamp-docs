@@ -11,7 +11,6 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 ## Screen Image
 
 ![alt text](./images/image-screen-en.png)
-![alt text](./images/image-edit.GIF)
 
 ## Main Features
 
@@ -51,10 +50,14 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 
   Timestamps are automatically saved to local storage, so you don't have to worry about losing data during work.
 
+- **Color Mode Feature**
+
+  Now supports Dark Mode.
+
 - **Display Favorite Images**
 
   By uploading and displaying your favorite images on the screen, you can boost your motivation for "Oshi" activities!
-  (Supported size:530px × 70px, formats: JPG, PNG, SVG)
+  (Supported size:500px × 70px, formats: JPG, PNG, SVG)
 
 - **Minimize Feature**
 
@@ -83,6 +86,8 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 - Version 1.8.0: Added the video screenshot feature, and changed the width of the fan image size: 430px → 530px
 - Version 1.9.0: Updated shortcut keys (changed to SHIFT or ALT), Updated localization support (en, en_GB, en_US, es, ja, ru, zh_CN, zh_TW)
 - Version 1.10.0: Hide the minimize icon in full-screen mode, change the width of the Oshi image size from 530px to 490px.
+- Version 1.11.0: Added color mode switching feature. (supports Dark Mode)
+- Version 1.12.0: Fixed an issue where the purchase screen (e.g., Super Chat) was not enabled, revised the overall UI, change the width of the Oshi image size from 490px to 530px, and updated localization support (en_US, es, ja, zh_CN, zh_TW).
 
 ## Privacy and Data Management
 
