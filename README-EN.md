@@ -88,6 +88,7 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 - Version 1.10.0: Hide the minimize icon in full-screen mode, change the width of the Oshi image size from 530px to 490px.
 - Version 1.11.0: Added color mode switching feature. (supports Dark Mode)
 - Version 1.12.0: Fixed an issue where the purchase screen (e.g., Super Chat) was not enabled, revised the overall UI, change the width of the Oshi image size from 490px to 530px, and updated localization support (en_US, es, ja, zh_CN, zh_TW).
+- Version 1.13.0: Added a feature to toggle the display of the favorite image.
 
 ## Privacy and Data Management
 
