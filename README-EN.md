@@ -71,7 +71,7 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 - **CTRL + SHIFT/ALT + ←**: Move back 1 second
 - **CTRL + SHIFT/ALT + ↑**: Adjust selected timestamp by +1 second (multiple selections possible)
 - **CTRL + SHIFT/ALT + ↓**: Adjust selected timestamp by -1 second (multiple selections possible)
-- **CTRL + SHIFT/ALT + Enter**: Jump to the timestamp time of the line where the cursor is located
+- **CTRL + SHIFT/ALT + Enter**: Jump to the timestamp time in the cursor line (if a timestamp is selected, it takes priority).
 
 ## Update History
 
@@ -89,6 +89,7 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 - Version 1.11.0: Added color mode switching feature. (supports Dark Mode)
 - Version 1.12.0: Fixed an issue where the purchase screen (e.g., Super Chat) was not enabled, revised the overall UI, change the width of the Oshi image size from 490px to 530px, and updated localization support (en_US, es, ja, zh_CN, zh_TW).
 - Version 1.13.0: Added a feature to toggle the display of the favorite image.
+- Version 1.14.0: Added support for multiple timestamps in a single line, and improved the time jump function so that CTRL + SHIFT/ALT + Enter prioritizes the selected timestamp.
 
 ## Privacy and Data Management
 
