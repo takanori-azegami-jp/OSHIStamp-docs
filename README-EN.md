@@ -16,7 +16,9 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 
 - **Add Timestamps**
 
-  Just click the "+" button while watching to add the current timestamp.
+  While watching, simply click the “+” button to append the current timestamp to the last line.
+
+  By clicking the “|→” button, you can insert the timestamp at the cursor position.
 
 - **Change Timestamp Format**
 
@@ -30,6 +32,8 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 - **Jump from Timestamps**
 
   Clicking on a timestamp link will move the video to that time.
+
+  ※ If a timestamp is selected, you can jump to that time using a shortcut key.
 
 - **Fast Forward and Rewind**
 
@@ -90,6 +94,7 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 - Version 1.12.0: Fixed an issue where the purchase screen (e.g., Super Chat) was not enabled, revised the overall UI, change the width of the Oshi image size from 490px to 530px, and updated localization support (en_US, es, ja, zh_CN, zh_TW).
 - Version 1.13.0: Added a feature to toggle the display of the favorite image.
 - Version 1.14.0: Added support for multiple timestamps in a single line, and improved the time jump function so that CTRL + SHIFT/ALT + Enter prioritizes the selected timestamp.
+- Version 1.15.0: Added a timestamp insertion button and changed the image display/hide icon.
 
 ## Privacy and Data Management
 
