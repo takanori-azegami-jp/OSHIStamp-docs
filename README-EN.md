@@ -14,7 +14,7 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 
 ## Main Features
 
-- **Add Timestamps**
+- **Add Timestamps and Insert**
 
   While watching, simply click the “+” button to append the current timestamp to the last line.
 
