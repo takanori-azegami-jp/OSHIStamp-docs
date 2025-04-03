@@ -65,6 +65,7 @@ Please note the following regarding the handling of exported data:
 #### 5.1 Non-Collection Policy for Personal Information
 
 The developer does not publish applications that require functions to collect personal information.
+
 **No personal information is stored, and only non-personal information necessary for the functionality of the app is stored in the user's device storage.**
 
 #### 5.2 Ensuring Information Accuracy
