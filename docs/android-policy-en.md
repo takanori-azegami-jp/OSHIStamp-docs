@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Privacy Policy for Android Applications
 
 [日本語](android-policy.md) | [English](android-policy-en.md)
