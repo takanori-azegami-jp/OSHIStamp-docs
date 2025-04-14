@@ -77,25 +77,6 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 - **CTRL + SHIFT/ALT + ↓**: Adjust selected timestamp by -1 second (multiple selections possible)
 - **CTRL + SHIFT/ALT + Enter**: Jump to the timestamp time in the cursor line (if a timestamp is selected, it takes priority).
 
-## Update History
-
-- Version 1.0.0: Initial release.
-- Version 1.1.0: Added localization support. (de, en, en_US, es, fr, ja, pt_BR, zh_CN)
-- Version 1.2.0: Added localization support. (ru)
-- Version 1.3.0: Added vertical and horizontal resizing functionality, adjusted screen size, and added a space after timestamps.
-- Version 1.4.0: Added the shortcut key "Ctrl + Shift + F" for inserting timestamps.
-- Version 1.5.0: Added localization support. (id, it, nl, vi)
-- Version 1.6.0: Fixed horizontal scrollbar jitter.
-- Version 1.7.0: Changed the addition, insertion, and adjustment of short format timestamps from h:m:ss to h:mm:ss format.
-- Version 1.8.0: Added the video screenshot feature, and changed the width of the fan image size: 430px → 530px
-- Version 1.9.0: Updated shortcut keys (changed to SHIFT or ALT), Updated localization support (en, en_GB, en_US, es, ja, ru, zh_CN, zh_TW)
-- Version 1.10.0: Hide the minimize icon in full-screen mode, change the width of the Oshi image size from 530px to 490px.
-- Version 1.11.0: Added color mode switching feature. (supports Dark Mode)
-- Version 1.12.0: Fixed an issue where the purchase screen (e.g., Super Chat) was not enabled, revised the overall UI, change the width of the Oshi image size from 490px to 530px, and updated localization support (en_US, es, ja, zh_CN, zh_TW).
-- Version 1.13.0: Added a feature to toggle the display of the favorite image.
-- Version 1.14.0: Added support for multiple timestamps in a single line, and improved the time jump function so that CTRL + SHIFT/ALT + Enter prioritizes the selected timestamp.
-- Version 1.15.0: Added a timestamp insertion button and changed the image display/hide icon.
-
 ## Privacy and Data Management
 
 This tool does not collect any user data. All data is stored locally and managed securely.
