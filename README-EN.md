@@ -27,17 +27,17 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
   - Short format (e.g., 2:30, 1:45:15)
   - Full format (e.g., 00:02:30, 01:45:15)
 
-  ※ When adjusting by ±1 second with shortcut keys, the selected format is applied.
+  ※ When adjusting by ±1 second with shortcut keys(CTRL + SHIFT/ALT + ↑↓), the selected format is applied.
 
 - **Jump from Timestamps**
 
   Clicking on a timestamp link will move the video to that time.
 
-  ※ If a timestamp is selected, you can jump to that time using a shortcut key.
+  ※ If a timestamp is selected, you can jump to that time using a shortcut key(CTRL + SHIFT/ALT + Enter).
 
 - **Fast Forward and Rewind**
 
-  You can skip in 5-second increments with buttons and in 1-second increments with shortcut keys.
+  You can skip in 5-second increments with buttons and in 1-second increments with shortcut keys(CTRL + SHIFT/ALT + ←→).
 
 - **Video Screenshot**
 
