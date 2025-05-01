@@ -31,8 +31,6 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 
   Clicking on a timestamp link will move the video to that time.
 
-  ※ If a timestamp is selected, you can jump to that time using a shortcut key(CTRL + SHIFT/ALT + Enter).
-
 - **Fast Forward and Rewind**
 
   Use buttons to skip ahead or back by 1s, 5s, 10s, 1m, 5m, or 10m. Keyboard shortcuts (CTRL + SHIFT/ALT + ←→) are also supported.
