@@ -14,11 +14,9 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 
 ## Main Features
 
-- **Add Timestamps and Insert**
+- **Insert Timestamps**
 
-  While watching, simply click the “+” button to append the current timestamp to the last line.
-
-  By clicking the “|→” button, you can insert the timestamp at the cursor position.
+  Click the ⏱️ button while watching a video to insert the current time at the cursor position.
 
 - **Change Timestamp Format**
 
@@ -37,18 +35,22 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 
 - **Fast Forward and Rewind**
 
-  You can skip in 5-second increments with buttons and in 1-second increments with shortcut keys(CTRL + SHIFT/ALT + ←→).
+  Use buttons to skip ahead or back by 1s, 5s, 10s, 1m, 5m, or 10m. Keyboard shortcuts (CTRL + SHIFT/ALT + ←→) are also supported.
 
 - **Video Screenshot**
 
   You can download a screenshot of the video in "PNG format."
 
+- **Generate Timestamp Links**
+
+  Copy a link that starts playback from the current time to your clipboard with one click.
+
 - **Copy Timestamps**
   You can copy the created timestamps to the clipboard with one click.
 
-- **Check Playback Time**
+- **Check Current Time**
 
-  You can check the playback time of the video in real-time on the screen.
+  View the current playback time on-screen in real time.
 
 - **Auto-Save Feature**
 
@@ -69,13 +71,11 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 
 ## Shortcut Keys（CTRL + SHIFT or ALT）
 
-- **CTRL + SHIFT/ALT + S**: Add timestamp
-- **CTRL + SHIFT/ALT + F**: Insert timestamp
-- **CTRL + SHIFT/ALT + →**: Move forward 1 second
-- **CTRL + SHIFT/ALT + ←**: Move back 1 second
+- **CTRL + SHIFT/ALT + S**: Insert timestamp
+- **CTRL + SHIFT/ALT + →**: Skip forward by selected amount
+- **CTRL + SHIFT/ALT + ←**: Skip backward by selected amount
 - **CTRL + SHIFT/ALT + ↑**: Adjust selected timestamp by +1 second (multiple selections possible)
 - **CTRL + SHIFT/ALT + ↓**: Adjust selected timestamp by -1 second (multiple selections possible)
-- **CTRL + SHIFT/ALT + Enter**: Jump to the timestamp time in the cursor line (if a timestamp is selected, it takes priority).
 
 ## Privacy and Data Management
 
