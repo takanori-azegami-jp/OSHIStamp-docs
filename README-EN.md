@@ -44,6 +44,7 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
   Copy a link that starts playback from the current time to your clipboard with one click.
 
 - **Copy Timestamps**
+
   You can copy the created timestamps to the clipboard with one click.
 
 - **Check Current Time**
