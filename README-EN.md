@@ -51,9 +51,17 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 
   View the current playback time on-screen in real time.
 
-- **Auto-Save Feature**
+- **Video-based Auto-Save Function**
 
-  Timestamps are automatically saved to local storage, so you don't have to worry about losing data during work.
+  Timestamps are automatically saved to local storage as they are created, so there's no worry about losing data during your work.
+
+  Timestamps are saved independently for each video, allowing you to manage timestamps for multiple videos collectively. Additionally, you can jump to the corresponding video with one click from the saved list, enabling smooth reuse of previously created timestamps.
+
+- **Backup and Restore**
+
+  When changing computers, reinstalling browsers, or switching operating systems, we provide a backup function for timestamp data to ensure continuity.
+
+  All timestamp data can be exported/imported in JSON format, making it easy to save and restore your work.
 
 - **Color Mode Feature**
 
