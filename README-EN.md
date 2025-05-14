@@ -6,6 +6,8 @@ A free tool to assist in creating timestamps for YouTube videos.
 
 Not only can you easily create and edit timestamps with intuitive operations, but advanced users can also perform speedy tasks using shortcut keys.
 
+Additionally, you can jump to the corresponding video with a single click from the per-video saved list, allowing smooth access to previously created timestamps.
+
 We help make your "Oshi" activities more enjoyable and convenient. Please make use of it!
 
 ## Screen Image
