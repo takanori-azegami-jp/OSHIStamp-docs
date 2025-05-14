@@ -6,7 +6,7 @@ A free tool to assist in creating timestamps for YouTube videos.
 
 Not only can you easily create and edit timestamps with intuitive operations, but advanced users can also perform speedy tasks using shortcut keys.
 
-Additionally, you can jump to the corresponding video with a single click from the per-video saved list, allowing smooth access to previously created timestamps.
+Additionally, you can jump to the corresponding video with a single click from the per-video saved memo list, allowing smooth access to previously created timestamps.
 
 We help make your "Oshi" activities more enjoyable and convenient. Please make use of it!
 
@@ -57,7 +57,7 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 
   Timestamps are automatically saved to local storage as they are created, so there's no worry about losing data during your work.
 
-  Timestamps are saved independently for each video, allowing you to manage timestamps for multiple videos collectively. Additionally, you can jump to the corresponding video with one click from the saved list, enabling smooth reuse of previously created timestamps.
+  Timestamps are saved independently for each video, allowing you to manage timestamps for multiple videos collectively.Additionally, you can jump to the corresponding video with a single click from the per-video saved memo list, allowing smooth access to previously created timestamps.
 
 - **Backup and Restore**
 
