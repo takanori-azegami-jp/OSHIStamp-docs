@@ -60,8 +60,12 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
   Timestamps are saved independently for each video, allowing you to manage timestamps for multiple videos collectively.Additionally, you can jump to the corresponding video with a single click from the per-video saved memo list, allowing smooth access to previously created timestamps.
 
 - **Backup and Restore**
+  To ensure your data is carried over in the following scenarios, we provide a backup feature for timestamp data:
 
-  When changing computers, reinstalling browsers, or switching operating systems, we provide a backup function for timestamp data to ensure continuity.
+  - Reinstalling the extension
+  - Reinstalling Chrome
+  - Deleting the user profile (user data directory)
+  - Reinstalling the OS or migrating to a different OS
 
   All timestamp data can be exported/imported in JSON format, making it easy to save and restore your work.
 
