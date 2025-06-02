@@ -35,7 +35,7 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 
 - **Fast Forward and Rewind**
 
-  Use buttons to skip ahead or back by 1s, 5s, 10s, 1m, 5m, or 10m. Keyboard shortcuts (CTRL + SHIFT/ALT + ←→) are also supported.
+  You can choose from preset durations (1s, 5s, 10s, 1min, 5min, 10min) using buttons. Shortcut keys (Ctrl + Shift / Alt + ←→) are also supported. One custom duration can be added as well.
 
 - **Video Screenshot**
 
