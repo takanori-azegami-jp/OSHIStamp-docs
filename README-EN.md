@@ -37,6 +37,15 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 
   You can choose from preset durations (1s, 5s, 10s, 1min, 5min, 10min) using buttons. Shortcut keys (Ctrl + Shift / Alt + ←→) are also supported. One custom duration can be added as well.
 
+- **AI Summarization (Beta)**
+
+  Leverage Google AI Studio (e.g. Gemini API) to semi‑automatically summarize the content of captioned videos.
+
+  - Limitations
+    - Video length: under 4 hours
+    - Caption file required (SRT/WebVTT format)
+    - Breaks required for continuous use (due to Google AI Studio API rate limits)
+
 - **Video Screenshot**
 
   You can download a screenshot of the video in "PNG format."
