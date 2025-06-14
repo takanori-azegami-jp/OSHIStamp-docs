@@ -42,8 +42,8 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
   Leverage Google AI Studio (e.g. Gemini API) to semi‑automatically summarize the content of captioned videos.
 
   - Limitations
-    - Video length: under 4 hours
-    - Caption file required (SRT/WebVTT format)
+    - Video length: under 12 hours
+    - Caption file required 
     - Breaks required for continuous use (due to Google AI Studio API rate limits)
 
 - **Video Screenshot**
