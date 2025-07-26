@@ -37,13 +37,17 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 
   You can choose from preset durations (1s, 5s, 10s, 1min, 5min, 10min) using buttons. Shortcut keys (Ctrl + Shift / Alt + ←→) are also supported. One custom duration can be added as well.
 
+- **Video Playback Speed**
+
+  You can choose the playback speed from 0.5x, 1x, 1.5x, 2x, or 2.5x using buttons.
+
 - **AI Summarization (Beta)**
 
   Leverage Google AI Studio (e.g. Gemini API) to semi‑automatically summarize the content of captioned videos.
 
   - Limitations
     - Video length: under 12 hours
-    - Caption file required 
+    - Caption file required
     - Breaks required for continuous use (due to Google AI Studio API rate limits)
 
 - **Video Screenshot**
