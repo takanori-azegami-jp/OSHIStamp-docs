@@ -35,7 +35,7 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 
 - **Fast Forward and Rewind**
 
-  You can choose from preset durations (1s, 5s, 10s, 1min, 5min, 10min) using buttons. Shortcut keys (Ctrl + Shift / Alt + ←→) are also supported. One custom duration can be added as well.
+  You can choose from preset durations (1s, 5s, 10s, 1m, 5m, 10m) using buttons. Shortcut keys (Ctrl + Shift / Alt + ←→) are also supported. One custom duration can be added as well.
 
 - **Video Playback Speed**
 
@@ -100,8 +100,8 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 - **CTRL + SHIFT/ALT + S**: Insert timestamp
 - **CTRL + SHIFT/ALT + →**: Skip forward by selected amount
 - **CTRL + SHIFT/ALT + ←**: Skip backward by selected amount
-- **CTRL + SHIFT/ALT + ↑**: Adjust selected timestamp by +1 second (multiple selections possible)
-- **CTRL + SHIFT/ALT + ↓**: Adjust selected timestamp by -1 second (multiple selections possible)
+- **CTRL + SHIFT/ALT + ↑**: Increase selected timestamp by 1s, 10s, 1m, or 10m (multiple values can be selected)
+- **CTRL + SHIFT/ALT + ↓**: Decrease selected timestamp by 1s, 10s, 1m, or 10m (multiple values can be selected)
 
 ## Privacy and Data Management
 
