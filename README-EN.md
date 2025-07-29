@@ -27,7 +27,7 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
   - Short format (e.g., 2:30, 1:45:15)
   - Full format (e.g., 00:02:30, 01:45:15)
 
-  ※ When adjusting by ±1 second with shortcut keys(CTRL + SHIFT/ALT + ↑↓), the selected format is applied.
+  ※ When adjusting the timestamp using shortcut keys (CTRL + SHIFT/ALT + ↑↓), the selected adjustment interval is applied.
 
 - **Jump from Timestamps**
 
