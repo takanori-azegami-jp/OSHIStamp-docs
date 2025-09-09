@@ -60,6 +60,16 @@ Please note the following regarding the handling of exported data:
 - Exported data does not contain personally identifiable information, but may include information related to usage history, such as YouTube video timestamps
 - If you share exported data with third parties, please thoroughly review the content and do so at your own responsibility
 
+#### 4.4 Anonymous Error Data Collection
+
+This app uses an external service to collect anonymous error data for the purpose of improving quality and fixing issues.
+
+The collected information may include app crash logs, error messages, and device details such as the OS version and model at the time of occurrence.
+
+No personally identifiable information (such as name, email address, or unique device ID) is collected.
+
+The collected data is used solely for investigating and improving app issues and will not be sold or shared with third parties.
+
 ### 5. Privacy Protection Measures
 
 #### 5.1 Non-Collection Policy for Personal Information
