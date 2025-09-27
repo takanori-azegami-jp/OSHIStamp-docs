@@ -1,4 +1,4 @@
-# OSHIStamp: YouTube Video Timestamp Creation Support Tool
+# OSHIStamp: YouTube Video Timestamp Creation & AI Summary Tool
 
 [日本語](README.md) | [English](README-EN.md)
 
@@ -6,7 +6,7 @@ A free tool to assist in creating timestamps for YouTube videos.
 
 Not only can you easily create and edit timestamps with intuitive operations, but advanced users can also perform speedy tasks using shortcut keys.
 
-Additionally, you can jump to the corresponding video with a single click from the per-video saved memo list, allowing smooth access to previously created timestamps.
+Additionally, with the AI summary and the per-video saved memo list, you can jump to the corresponding video with a single click, allowing smooth access to previously created timestamps.
 
 We help make your "Oshi" activities more enjoyable and convenient. Please make use of it!
 
@@ -41,7 +41,7 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 
   You can choose the playback speed from 0.5x, 1x, 1.5x, 2x, or 2.5x using buttons.
 
-- **AI Summarization (Beta)**
+- **AI Summarization**
 
   Leverage Google AI Studio (e.g. Gemini API) to semi‑automatically summarize the content of captioned videos.
 
