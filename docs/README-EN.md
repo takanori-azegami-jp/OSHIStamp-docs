@@ -1,96 +1,37 @@
-# Privacy Policy for Chrome Extensions
+# OSHIStamp: YouTube Video Timestamp Creation & AI Summary Tool
 
 [Japanese](README.md) | [English](README-EN.md)
 
-## Privacy Policy for Chrome Extensions
+A free tool to assist in creating timestamps for YouTube videos.
 
-This privacy policy outlines the policies that Takanori Azegami (hereinafter referred to as "the developer") adheres to when handling personal information or equivalent information in the use of the Google Chrome extension (OSHIStamp) (hereinafter referred to as "the extension") developed by the developer.
+Not only can you easily create and edit timestamps with intuitive operations, but advanced users can also perform speedy tasks using shortcut keys.
 
-### Basic Policy
+Additionally, with the AI summary and the per-video saved memo list, you can jump to the corresponding video with a single click, allowing smooth access to previously created timestamps.
 
-The developer recognizes the importance of personal information and considers it a social responsibility to protect personal information. The developer complies with laws related to personal information and appropriately acquires, uses, and manages personal information handled in the extension.
+We help make your "Oshi" activities more enjoyable and convenient. Please make use of it!
 
-### Scope of Application
+## Screen Image
 
-This privacy policy applies only to the extension developed by the developer.
+![alt text](./images/image-screen-en.png)
 
-### Acquisition and Purpose of Use of Personal Information
+## Site URL
 
-The developer does not release extensions that have functions to collect personal information.
-**However, some personal information is stored in the user's browser local storage.**
+- [Chrome extension](https://chromewebstore.google.com/detail/oshistamp-youtube-video-t/hcpfgbneeldjlkbfhbmidhiadhdoddjk)
 
-#### Acquisition Method
+- [Android app](https://play.google.com/store/apps/details?id=jp.takanoriazegami.oshistamp)
 
-Information is obtained from input forms within the extension and DOM information of websites.
-Some of the obtained information is stored in the browser's local storage.
+## Privacy Policy
 
-#### Purpose of Use
+The privacy policy for this application can be found at the following link:
 
-##### Improving Convenience
+- [Privacy Policy](https://takanori-azegami-jp.github.io/OSHIStamp-docs/Chrome-policy-en.html)
 
-The extension stores the following information in the **"browser's local storage"**:
+## References
 
-- Timestamps, settings information, and image information created by the extension
+The following site was referenced during the development of this project:
 
-This allows the extension to automatically restore information created in the past when used next time, improving convenience.
-**Personal information is not sent to the developer and is stored in the user's browser local storage.**
+- [piny940 / kokosuko-stamp](https://github.com/piny940/kokosuko-stamp)
 
-##### Google Drive Integration (Optional)
+---
 
-The extension provides an optional Google Drive integration feature that users can voluntarily enable.
-
-**Purpose of Use:**
-
-- Data backup (saving to and restoring from Google Drive)
-
-**Data Handling:**
-
-- Only operates when users explicitly authenticate and enable the feature
-- Once enabled, data is automatically saved to Google Drive when created or updated
-- Data is stored only in the user's Google Drive account and is not accessible by the developer
-- Data restoration is performed only through user actions
-
-##### Retention Period
-
-The extension uses local storage for data handling.
-Since local storage does not have a retention period, the data retention period is until the extension is uninstalled.
-
-#### Consent to Handling of Personal Information
-
-The developer requests that users read this privacy policy before installing the extension developed by the developer.
-By installing the extension, it is considered that the user has agreed to this privacy policy.
-
-#### Acquisition of Personal Information via Cookies
-
-The extension does not use cookies.
-
-### Management of Personal Information
-
-The developer ensures the following regarding the management of personal information within the extension.
-
-#### Ensuring Accuracy of Information
-
-The data entered by the user is always kept accurate.
-
-#### Safety Management Measures
-
-To prevent leakage and loss of information, the extension implements the following measures:
-
-- Information is not sent to servers for purposes other than the intended use
-- Transmitted data is stored only in the user's Google Drive account and is not accessible by third parties (including the developer)
-
-#### Provision of Personal Information to Third Parties
-
-The developer's extensions do not provide personal information provided by users to third parties without the user's consent.
-If third-party provision is to be conducted in the future, the information to be provided and the purpose of provision will be presented, and third-party provision will only be conducted with the user's consent.
-
-#### Contact Information
-
-For inquiries regarding the extension or the handling of personal information, please contact the following email address:
-
-Email address: t.azegami213@gmail.com
-
-## Date of Enactment and Updates
-
-- Date of Enactment: 2025/1/12
-- Last Updated: 2025/11/24
+![alt text](./images/image-logo.png)
