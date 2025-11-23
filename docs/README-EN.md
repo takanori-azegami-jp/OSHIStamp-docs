@@ -1,6 +1,6 @@
 # Privacy Policy for Chrome Extensions
 
-[日本語](README.md) | [English](README-EN.md)
+[Japanese](README.md) | [English](README-EN.md)
 
 ## Privacy Policy for Chrome Extensions
 
@@ -30,12 +30,25 @@ Some of the obtained information is stored in the browser's local storage.
 
 The extension stores the following information in the **"browser's local storage"**:
 
-- Timestamps created by the extension
-- Settings information created by the extension
-- Image information created by the extension
+- Timestamps, settings information, and image information created by the extension
 
 This allows the extension to automatically restore information created in the past when used next time, improving convenience.
 **Personal information is not sent to the developer and is stored in the user's browser local storage.**
+
+##### Google Drive Integration (Optional)
+
+The extension provides an optional Google Drive integration feature that users can voluntarily enable.
+
+**Purpose of Use:**
+
+- Data backup (saving to and restoring from Google Drive)
+
+**Data Handling:**
+
+- Only operates when users explicitly authenticate and enable the feature
+- Once enabled, data is automatically saved to Google Drive when created or updated
+- Data is stored only in the user's Google Drive account and is not accessible by the developer
+- Data restoration is performed only through user actions
 
 ##### Retention Period
 
@@ -61,7 +74,10 @@ The data entered by the user is always kept accurate.
 
 #### Safety Management Measures
 
-To prevent leakage and loss of information, the extension does not send information to servers for purposes other than the intended use within the extension.
+To prevent leakage and loss of information, the extension implements the following measures:
+
+- Information is not sent to servers for purposes other than the intended use
+- Transmitted data is stored only in the user's Google Drive account and is not accessible by third parties (including the developer)
 
 #### Provision of Personal Information to Third Parties
 
@@ -77,4 +93,4 @@ Email address: t.azegami213@gmail.com
 ## Date of Enactment and Updates
 
 - Date of Enactment: 2025/1/12
-- Last Updated: 2025/4/15
+- Last Updated: 2025/11/24
