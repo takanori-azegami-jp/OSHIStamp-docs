@@ -18,8 +18,6 @@ We help make your "Oshi" activities more enjoyable and convenient. Please make u
 
 - [Chrome extension](https://chromewebstore.google.com/detail/oshistamp-youtube-video-t/hcpfgbneeldjlkbfhbmidhiadhdoddjk)
 
-- [Android app](https://play.google.com/store/apps/details?id=jp.takanoriazegami.oshistamp)
-
 ## Privacy Policy
 
 The privacy policy for this application can be found at the following link:

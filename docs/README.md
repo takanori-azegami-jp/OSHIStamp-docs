@@ -14,11 +14,9 @@ YouTube 動画のタイムスタンプ作成を支援する無料ツールです
 
 ![alt text](./images/image-screen.png)
 
-## サイトURL
+## サイト URL
 
-- [Chrome拡張](https://chromewebstore.google.com/detail/oshistamp-youtube-video-t/hcpfgbneeldjlkbfhbmidhiadhdoddjk)
-
-- [Androidアプリ](https://play.google.com/store/apps/details?id=jp.takanoriazegami.oshistamp)
+- [Chrome 拡張](https://chromewebstore.google.com/detail/oshistamp-youtube-video-t/hcpfgbneeldjlkbfhbmidhiadhdoddjk)
 
 ## プライバシーポリシー
 
