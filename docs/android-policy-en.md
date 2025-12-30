@@ -60,7 +60,21 @@ Please note the following regarding the handling of exported data:
 - Exported data does not contain personally identifiable information, but may include information related to usage history, such as YouTube video timestamps
 - If you share exported data with third parties, please thoroughly review the content and do so at your own responsibility
 
-#### 4.4 Anonymous Error Data Collection
+#### 4.4 Google Drive Integration (Optional)
+
+This app provides a Google Drive integration feature that users can optionally enable.
+
+**Purpose of Use:**
+
+- Data backup (saving to Google Drive)
+
+**Data Handling:**
+
+- Only operates when explicitly authenticated and enabled by the user
+- When the feature is enabled, data is automatically saved to Google Drive when created or updated
+- Data is stored only in the user's Google Drive account (OSHIStamp-Android/ folder) and the developer cannot access it
+
+#### 4.5 Anonymous Error Data Collection
 
 This app uses an external service to collect anonymous error data for the purpose of improving quality and fixing issues.
 
@@ -115,4 +129,4 @@ Email: t.azegami213@gmail.com
 ### 9. Formulation and Update Dates
 
 - Formulation date: 2025/4/3
-- Last update: 2025/9/9
+- Last update: 2025/12/30
