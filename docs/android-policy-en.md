@@ -20,7 +20,7 @@ This privacy policy applies only to applications developed by the developer.
 
 ### 3. App Functionality Overview
 
-This app is a tool for creating and managing timestamps while watching videos.
+This app is a tool for creating and managing timestamps while watching videos. The app displays banner advertisements using Google AdMob.
 
 #### 3.1 App Permissions
 
@@ -84,11 +84,24 @@ No personally identifiable information (such as name, email address, or unique d
 
 The collected data is used solely for investigating and improving app issues and will not be sold or shared with third parties.
 
+#### 4.6 Data Collection by AdMob
+
+This app uses Google AdMob, an advertising service provided by Google Inc.
+
+AdMob may automatically collect certain information, such as the advertising ID or other device identifiers, to display personalized ads based on the user's interests.
+
+For more information on the data collected and how it is used, please refer to Google's privacy and advertising policies:
+
+- [Google Privacy Policy](https://policies.google.com/privacy?hl=en)
+- [Google Advertising Technologies](https://policies.google.com/technologies/ads?hl=en)
+
 ### 5. Privacy Protection Measures
 
 #### 5.1 Non-Collection Policy for Personal Information
 
 The developer does not publish applications that require functions to collect personal information.
+
+Please refer to section 4.6 for details on AdMob-related data collection.
 
 **No personal information is stored, and only non-personal information necessary for the functionality of the app is stored in the user's device storage.**
 
@@ -129,4 +142,4 @@ Email: t.azegami213@gmail.com
 ### 9. Formulation and Update Dates
 
 - Formulation date: 2025/4/3
-- Last update: 2025/12/30
+- Last update: 2026/1/14
