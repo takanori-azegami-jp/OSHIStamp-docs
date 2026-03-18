@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Privacy Policy for Android Applications
+# Privacy Policy for Mobile Applications
 
 [Japanese](mobile-policy.md) | [English](mobile-policy-en.md)
 
-## Privacy Policy for Android Applications
+## Privacy Policy for Mobile Applications
 
-This privacy policy outlines the guidelines that Takanori Azegami (hereinafter referred to as "the developer") follows when handling personal information or equivalent information of users in the use of the Android application (OSHIStamp) (hereinafter referred to as "the app") developed by the developer.
+This privacy policy outlines the guidelines that Takanori Azegami (hereinafter referred to as "the developer") follows when handling personal information or equivalent information of users in the use of the mobile applications (OSHIStamp for Android and iOS) (hereinafter referred to as "the app") developed by the developer.
 
 ### 1. Basic Policy
 
@@ -22,11 +22,12 @@ This privacy policy applies only to applications developed by the developer.
 
 This app is a tool for creating and managing timestamps while watching videos. The app displays banner advertisements using Google AdMob.
 
-#### 3.1 App Permissions
+#### 3.1 App Permissions and Device Access
 
-This app uses the following permissions:
+This app uses the following permissions or device access depending on the platform and features used:
 
-- Storage access: Used to save timestamp data and setting information
+- Local storage within the app: Used to save timestamp data and setting information
+- File access when exporting or importing backup data: Used only when the user explicitly performs backup or restore operations
 
 #### 3.2 Use of WebView
 
@@ -72,7 +73,7 @@ This app provides a Google Drive integration feature that users can optionally e
 
 - Only operates when explicitly authenticated and enabled by the user
 - When the feature is enabled, data is automatically saved to Google Drive when created or updated
-- Data is stored only in the user's Google Drive account (OSHIStamp-Android/ folder) and the developer cannot access it
+- Data is stored only in the user's Google Drive account in an app-specific backup folder, and the developer cannot access it
 
 #### 4.5 Anonymous Error Data Collection
 
@@ -142,4 +143,4 @@ Email: t.azegami213@gmail.com
 ### 9. Formulation and Update Dates
 
 - Formulation date: 2025/4/3
-- Last update: 2026/1/14
+- Last update: 2026/3/18
